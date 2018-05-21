@@ -1,0 +1,12 @@
+맛집:
+  name: 맛집
+  description: False
+  cover: False
+여행:
+  name: 여행
+  description: False
+  cover: False
+소소한일상:
+  name: 소소한일상
+  description: False
+  cover: False
