@@ -1,12 +1,12 @@
-맛집:
+food:
   name: 맛집
   description: False
   cover: False
-여행:
+travel:
   name: 여행
   description: False
   cover: False
-소소한일상:
+life:
   name: 소소한일상
   description: False
   cover: False
